@@ -1,0 +1,17 @@
+2023-12-27 22:14:39,410 - INFO - this is info
+2023-12-27 22:15:01,219 - INFO - This is an info message
+2023-12-27 22:15:01,222 - WARNING - This is a warning message
+2023-12-27 22:15:01,224 - ERROR - This is an error message
+2023-12-27 22:15:01,226 - CRITICAL - This is a critical message
+2023-12-27 22:17:51,037 - INFO - This is an info message
+2023-12-27 22:17:51,039 - WARNING - This is a warning message
+2023-12-27 22:17:51,041 - ERROR - this is an error message
+2023-12-27 22:17:51,044 - CRITICAL - THis is a critical message
+2023-12-27 22:18:58,552 - INFO - This is an info message
+2023-12-27 22:18:58,555 - WARNING - This is a warning message
+2023-12-27 22:18:58,558 - ERROR - this is an error message
+2023-12-27 22:18:58,559 - CRITICAL - THis is a critical message
+2023-12-27 22:27:01,839 - INFO - This is an info message
+2023-12-27 22:27:01,859 - WARNING - This is a warning message
+2023-12-27 22:27:01,861 - ERROR - this is an error message
+2023-12-27 22:27:01,865 - CRITICAL - THis is a critical message

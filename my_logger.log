@@ -1,0 +1,33 @@
+2023-12-27 22:09:58,228 - DEBUG - This is a debug message
+2023-12-27 22:09:58,228 - INFO - This is an info message
+2023-12-27 22:09:58,228 - WARNING - This is a warning message
+2023-12-27 22:09:58,228 - ERROR - This is an error message
+2023-12-27 22:09:58,228 - CRITICAL - This is a critical message
+2023-12-27 22:10:12,888 - DEBUG - diff parser start
+2023-12-27 22:10:12,888 - DEBUG - line_lengths old: 8; new: 1
+2023-12-27 22:10:12,888 - DEBUG - -> code[replace] old[1:8] new[1:1]
+2023-12-27 22:10:12,888 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-12-27 22:10:12,888 - DEBUG - diff parser end
+2023-12-27 22:10:21,763 - DEBUG - This is a debug message
+2023-12-27 22:10:21,763 - INFO - This is an info message
+2023-12-27 22:10:21,764 - WARNING - This is a warning message
+2023-12-27 22:10:21,764 - ERROR - This is an error message
+2023-12-27 22:10:21,764 - CRITICAL - This is a critical message
+2023-12-27 22:14:39,410 - INFO - this is info
+2023-12-27 22:15:01,219 - INFO - This is an info message
+2023-12-27 22:15:01,222 - WARNING - This is a warning message
+2023-12-27 22:15:01,224 - ERROR - This is an error message
+2023-12-27 22:15:01,226 - CRITICAL - This is a critical message
+2023-12-27 22:17:51,037 - INFO - This is an info message
+2023-12-27 22:17:51,039 - WARNING - This is a warning message
+2023-12-27 22:17:51,041 - ERROR - this is an error message
+2023-12-27 22:17:51,044 - CRITICAL - THis is a critical message
+2023-12-27 22:18:32,800 - DEBUG - diff parser start
+2023-12-27 22:18:32,800 - DEBUG - line_lengths old: 1; new: 1
+2023-12-27 22:18:32,800 - DEBUG - -> code[replace] old[1:1] new[1:1]
+2023-12-27 22:18:32,807 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+2023-12-27 22:18:32,807 - DEBUG - diff parser end
+2023-12-27 22:18:58,552 - INFO - This is an info message
+2023-12-27 22:18:58,555 - WARNING - This is a warning message
+2023-12-27 22:18:58,558 - ERROR - this is an error message
+2023-12-27 22:18:58,559 - CRITICAL - THis is a critical message
